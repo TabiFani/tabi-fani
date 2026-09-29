@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 80" role="img" aria-label="Tabi Fani">
+  <!-- PLACEHOLDER logo. Replace with your real logo: drop assets/logo.png and change the <img> src in index.html -->
+  <path d="M32 2C16 2 4 14 4 29c0 20 28 49 28 49s28-29 28-49C60 14 48 2 32 2z" fill="#F26A1B"/>
+  <circle cx="32" cy="29" r="19" fill="#14284B"/>
+  <path d="M25 40l12-12a7 7 0 01-9-9l4 4 4-1 1-4a7 7 0 016 9L31 39a3 3 0 01-6 1z" fill="#fff"/>
+</svg>
